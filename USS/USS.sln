@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USS", "USS.csproj", "{A2D95928-34E7-D662-8A29-AC5522D1FD49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USS_Server", "..\USS_Server\USS_Server\USS_Server.csproj", "{99F0639B-78AB-4280-85E7-7F90504A3B3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USS Shared", "USS Shared\USS Shared.csproj", "{AC5DE126-20CA-4A80-B66F-75F81454A951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2D95928-34E7-D662-8A29-AC5522D1FD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D95928-34E7-D662-8A29-AC5522D1FD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D95928-34E7-D662-8A29-AC5522D1FD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D95928-34E7-D662-8A29-AC5522D1FD49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F0639B-78AB-4280-85E7-7F90504A3B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F0639B-78AB-4280-85E7-7F90504A3B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F0639B-78AB-4280-85E7-7F90504A3B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F0639B-78AB-4280-85E7-7F90504A3B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5DE126-20CA-4A80-B66F-75F81454A951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5DE126-20CA-4A80-B66F-75F81454A951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5DE126-20CA-4A80-B66F-75F81454A951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5DE126-20CA-4A80-B66F-75F81454A951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

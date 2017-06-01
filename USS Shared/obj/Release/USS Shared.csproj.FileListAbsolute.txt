@@ -1,0 +1,4 @@
+C:\Users\SinpaiKun\Documents\USS\USS Shared\bin\Release\USS Shared.dll
+C:\Users\SinpaiKun\Documents\USS\USS Shared\bin\Release\USS Shared.pdb
+C:\Users\SinpaiKun\Documents\USS\USS Shared\obj\Release\USS Shared.dll
+C:\Users\SinpaiKun\Documents\USS\USS Shared\obj\Release\USS Shared.pdb

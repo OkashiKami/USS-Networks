@@ -1,0 +1,8 @@
+C:\Users\SinpaiKun\Documents\USS_Server\USS_Server\bin\Debug\USS_Server.exe.config
+C:\Users\SinpaiKun\Documents\USS_Server\USS_Server\bin\Debug\USS_Server.exe
+C:\Users\SinpaiKun\Documents\USS_Server\USS_Server\bin\Debug\USS_Server.pdb
+C:\Users\SinpaiKun\Documents\USS_Server\USS_Server\bin\Debug\USS Shared.dll
+C:\Users\SinpaiKun\Documents\USS_Server\USS_Server\bin\Debug\USS Shared.pdb
+C:\Users\SinpaiKun\Documents\USS_Server\USS_Server\obj\Debug\USS_Server.csprojResolveAssemblyReference.cache
+C:\Users\SinpaiKun\Documents\USS_Server\USS_Server\obj\Debug\USS_Server.exe
+C:\Users\SinpaiKun\Documents\USS_Server\USS_Server\obj\Debug\USS_Server.pdb
